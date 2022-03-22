@@ -1,0 +1,3 @@
+O stiva implementata cu 2 cozi:
+Operatia de push este la fel ca la stiva diferenta fiind ca adaugam elem. in stiva care nu este goala.O(1)
+Operatia de pop presupune mutarea tuturor elementelor mai putin ultimul in stiva goala.Apoi se scoate elementul ramas prin pop.Complexitatea operatiei pare O(n) dar dupa o analiza amortizata O(1).
